@@ -1,0 +1,14 @@
+.todoitem {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.input {
+    margin-right: 1rem;
+}
+
+.buttonitem {
+    padding: 0.5rem;
+    margin-left: 1rem;
+}
